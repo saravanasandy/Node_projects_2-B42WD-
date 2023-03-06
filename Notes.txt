@@ -1,0 +1,8 @@
+Problem Facing :- 
+1. Mongodb atlas in database Access has password At Saravana@123 so, problem trigger at 
+    in this error - MongoAPIError: URI must include hostname, domain name, and tld 
+    solution :- 
+    https://stackoverflow.com/questions/55753484/mongoparseerror-uri-does-not-have-hostname-domain-name-and-tld
+
+
+2. 
